@@ -1,0 +1,273 @@
+{
+  "data": [
+    {
+      "image": "pasar_badung",
+      "open": true,
+      "name": "Pasar Badung",
+      "location": "Denpasar",
+      "open_time": "16.00-22.30 WITA",
+      "description": "Pasar Badung termasuk salah satu pasar terbesar di Denpasar. Berbeda dengan pasar pada umumnya, bangunan Pasar Badung terdiri dari enam lantai dan cukup bersih. Bahkan, banyak juga yang melakukan foto pre wedding di sini, lho.",
+      "rate": 3.5,
+      "category": "public",
+    "review": [
+        "Pasar Badung adalah surga belanja! Beragam produk lokal dengan harga yang bersaing. Tempat yang sempurna untuk merasakan atmosfer lokal dan membeli oleh-oleh khas Bali.",
+        "Saya sangat menikmati pengalaman berbelanja di Pasar Badung. Terdapat berbagai macam barang, mulai dari pakaian tradisional hingga kerajinan tangan. Pastikan untuk menawar harga!",
+        "Pasar Badung adalah jantungnya kegiatan pasar di Bali. Meskipun ramai, tetapi saya menemukan barang-barang berkualitas dengan harga yang terjangkau. Pasti akan kembali lagi!"
+    ],
+    "feature": [
+        "Pasar Tradisional",
+        "Kuliner Lokal",
+        "Suvenir Bali",
+        "Keragaman Produk"
+    ]
+    },
+    {
+        "image": "art_center",
+        "open": true,
+        "name": "Taman Werdhi Budaya Art Centre",
+        "location": "Denpasar",
+        "open_time": "07.30-15.30 WITA",
+        "description": "Taman Werdhi Budaya Art Centre berlokasi tepat di tengah-tengah kota Denpasar. Taman ini didirikan oleh Gubernur Bali ke-6, Ida Bagus Mantra, yang peduli dengan kesenian dan budaya Bali. Oh iya, kamu dapat menonton pertunjukan kesenian Bali setiap hari di sini. ",
+        "rate": 4.5,
+        "category": "public",
+        "review": [
+            "Taman Werdhi Budaya Art Centre adalah tempat yang menakjubkan untuk mengeksplorasi seni dan budaya Bali. Pertunjukan seni yang mengagumkan dan galeri seni yang menarik membuat kunjungan ini sangat berkesan.",
+            "Saya terpesona dengan keindahan Taman Werdhi Budaya Art Centre. Lingkungan yang tenang dan penuh dengan seni. Saya sangat menikmati pertunjukan tradisional Bali dan karya seni lokal yang dipamerkan di sini.",
+            "Taman Werdhi Budaya Art Centre adalah destinasi yang harus dikunjungi di Denpasar. Dari seni tari hingga seni lukis, tempat ini menawarkan pengalaman budaya Bali yang mendalam. Terima kasih atas keindahan dan inspirasinya!"
+        ],
+        "feature": [
+            "Seni Budaya",
+            "Pertunjukan Seni",
+            "Galeri Seni",
+            "Pusat Seni"
+        ]
+    },
+    {
+        "image": "mangrove",
+        "open": true,
+        "name": "Hutan Mangrove Bali",
+        "location": "Denpasar",
+        "open_time": "08.00-17.00 WITA",
+        "description": "Tempat ini luasnya mencapai sekitar 1.300 hektare. Terdapat jembatan kayu yang bisa digunakan untuk menelusuri kawasan hutan bakau. Disarankan berkunjung saat sore hari supaya tak terlalu panas.",
+        "rate": 3.5,
+        "category": "nature",
+        "review": [
+            "Hutan Mangrove Bali adalah tempat yang menakjubkan untuk bersantai dan menikmati keindahan alam. Suasana tenang dan segar, cocok untuk berjalan-jalan atau naik perahu menyusuri sungai mangrove. Sangat direkomendasikan untuk menghindari keramaian kota.",
+            "Saya sangat terkesan dengan keindahan alam Hutan Mangrove Bali. Tersedia jalur trekking yang mudah diakses dan pemandangan yang menakjubkan sepanjang perjalanan. Cocok untuk keluarga dan pecinta alam!",
+            "Hutan Mangrove Bali adalah surga bagi para pecinta alam. Dengan beragam flora dan fauna yang menarik, tempat ini cocok untuk menghabiskan waktu bersama keluarga atau sekadar bersantai di alam terbuka. Pasti akan kembali lagi!"
+        ],
+        "feature": [
+            "Alam Liar",
+            "Ekosistem Mangrove",
+            "Keanekaragaman Hayati",
+            "Wisata Alam"
+        ]
+    },
+    {
+        "image": "sanur",
+        "open": true,
+        "name": "Pantai Sanur",
+        "location": "Denpasar",
+        "open_time": "24 jam",
+        "description": "Di bibir pantainya, disediakan jalanan yang cukup panjang, sehingga biasa digunakan untuk bersepeda. Selain bersepeda, kamu juga bisa naik perahu kano berkeliling pantai. Harga sewanya sekitar Rp20 ribu.",
+        "rate": 4.5,
+        "category": "beach",
+        "review": [
+            "Pantai Sanur adalah surga tersembunyi di Bali! Pantai yang tenang dengan pasir putih yang lembut, sempurna untuk bersantai atau menikmati matahari terbenam yang spektakuler. Juga banyak warung dan restoran di sekitar untuk menikmati hidangan laut segar.",
+            "Saya sangat menikmati keindahan Pantai Sanur. Ombak yang tenang membuatnya sempurna untuk berenang atau bersnorkeling. Di pagi hari, Anda bisa melihat pesona sunrise yang memukau. Tempat ini cocok untuk mereka yang mencari ketenangan dan keindahan alam.",
+            "Pantai Sanur adalah tempat yang menyenangkan untuk menghabiskan waktu bersama keluarga atau pasangan. Pasir putihnya yang bersih dan airnya yang jernih membuatnya sempurna untuk bermain atau sekadar berjemur. Juga banyak aktivitas menarik seperti menyewa perahu atau bersepeda di sekitar pantai."
+        ],
+        "feature": [
+            "Keindahan Alam",
+            "Aktivitas Air",
+            "Pantai Pasir Putih",
+            "Matahari Terbit"
+        ]
+    },
+    {
+        "image": "bajra_sandhi",
+        "open": true,
+        "name": "Monumen Bajra Sandhi",
+        "location": "Denpasar",
+        "open_time": "08.00-18.00 WITA",
+        "description": "Monumen yang dibuka pada 2003 ini menandakan peringatan rakyat Bali melawan penjajah. Di dalamnya terdapat museum yang dilengkapi dengan 33 diorama. Bentuk bangunannya menyerupai Genta atau Bajra, alat sembahyang yang digunakan pendeta Hindu.",
+        "rate": 3.0,
+        "category": "public",
+        "review": [
+            "Monumen Bajra Sandhi adalah simbol kebanggaan Bali yang memukau! Dengan arsitektur megah dan taman yang indah, tempat ini mempersembahkan penghormatan kepada sejarah dan budaya Bali. Pengalaman yang mendalam dan penuh inspirasi.",
+            "Saya terkesan dengan keindahan dan makna Monumen Bajra Sandhi. Museum di dalamnya memberikan pemahaman yang dalam tentang sejarah Bali dan perjuangan bangsa. Tempat ini layak dikunjungi bagi siapa pun yang ingin memahami warisan budaya Bali.",
+            "Monumen Bajra Sandhi adalah destinasi budaya yang mengagumkan di Bali. Dengan koleksi artefak dan pameran yang menarik, tempat ini memberikan wawasan yang dalam tentang perjalanan sejarah Bali. Sangat direkomendasikan untuk wisatawan yang ingin mendalami kekayaan budaya pulau ini."
+        ],
+        "feature": [
+            "Sejarah dan Budaya",
+            "Arsitektur Megah",
+            "Pameran Budaya",
+            "Pusat Sejarah"
+        ]
+    },
+    {
+        "image": "lempuyang",
+        "open": true,
+        "name": "Pura Lempuyang Luhur",
+        "location": "Karangasem",
+        "open_time": "07:00–17:00 WITA",
+        "description": "Pura Lempuyang Luhur ini cukup hits di kalangan wisatawan. Pura ini menjadi destinasi wisata yang ikonik di Karangasem. Faktanya, Pura Lempuyang Luhur merupakan pura tertua di kawasan Bali Timur. Saking indahnya, banyak wisawatan yang menyebut pura ini 'Gate to Heaven'.",
+        "rate": 4.5,
+        "category": "temple",
+        "review": [
+            "Pura Lempuyang Luhur adalah destinasi spiritual yang luar biasa di Bali! Terletak di lereng Gunung Lempuyang, pura ini menawarkan pemandangan spektakuler Gunung Agung dan gerbang surgawi yang ikonik. Pengalaman yang menggetarkan dan penuh makna spiritual.",
+            "Saya sangat terpesona dengan keindahan dan kedamaian Pura Lempuyang Luhur. Perjalanan mendaki menuju pura ini mempersembahkan petualangan yang menarik, dan pemandangan dari atas sangatlah memukau. Tempat ini cocok bagi mereka yang mencari kedamaian dan refleksi spiritual.",
+            "Pura Lempuyang Luhur adalah tempat yang harus dikunjungi di Bali. Dengan suasana yang tenang dan pemandangan alam yang menakjubkan, pura ini memberikan pengalaman yang tak terlupakan. Juga disarankan untuk mengambil foto di Gerbang Surgawi yang terkenal sebagai latar belakang yang sempurna!"
+        ],
+        "feature": [
+            "Wisata Religi",
+            "Pemandangan Gunung",
+            "Arsitektur Pura",
+            "Spot Foto Instagramable"
+        ]
+    },
+    {
+        "image": "tirta_ganga",
+        "open": true,
+        "name": "Tirta Gangga",
+        "location": "Karangasem",
+        "open_time": "08.00-17.00 WITA",
+        "description": "Tirta Gangga merupakan sebuah istana air peninggalan Kerajaan Karangasem. Pemandangannya keren banget, gak heran kalau banyak wisatawan lokal dan mancanegara datang ke sini.",
+        "rate": 4.5,
+        "category": "temple",
+        "review": [
+            "Tirta Gangga adalah surga tersembunyi di Bali! Taman air yang indah dengan kolam renang alami dan arsitektur yang megah. Suasana yang tenang dan pemandangan yang menakjubkan membuat tempat ini cocok untuk bersantai atau sekadar menikmati keindahan alam.",
+            "Saya sangat terkesan dengan keindahan Tirta Gangga. Terdapat banyak kolam air mancur dan patung yang menakjubkan di tengah-tengah taman yang hijau. Tempat ini adalah tempat yang sempurna untuk berfoto dan menikmati keindahan Bali.",
+            "Tirta Gangga adalah destinasi yang must-visit di Bali. Dengan suasana yang damai dan arsitektur yang memukau, tempat ini menawarkan pengalaman yang tak terlupakan bagi pengunjungnya. Juga direkomendasikan untuk berinteraksi dengan penduduk setempat dan menikmati keindahan alam sekitar."
+        ],
+        "feature": [
+            "Wisata Religi",
+            "Kolam Suci",
+            "Arsitektur Pura",
+            "Taman Bunga"
+        ]
+    },
+    {
+        "image": "lotus",
+        "open": true,
+        "name": "Lotus Lagoon",
+        "location": "Karangasem",
+        "open_time": "24 jam",
+        "description": "Lotus Lagoon menawarkan daya tarik yang berbeda. Ada ribuan bunga teratai di kolamnya, sehingga tampak makin cantik. Saking cantiknya, rasanya sayang kalau tidak berfoto di sini. Baik wisatawan lokal dan mancanegara suka sekali dengan pemandangannya.",
+        "rate": 5.0,
+        "category": "nature",
+        "review": [
+            "Lotus Lagoon adalah tempat yang menakjubkan di Bali! Dikelilingi oleh bunga teratai yang indah, danau ini menciptakan pemandangan yang menakjubkan. Suasana tenang dan sejuk membuatnya sempurna untuk bermeditasi atau sekadar menikmati keindahan alam.",
+            "Saya sangat terpesona dengan keindahan Lotus Lagoon. Bunga teratai yang mengambang di permukaan danau menciptakan pemandangan yang damai dan menenangkan. Tempat ini cocok untuk menghabiskan waktu bersama keluarga atau pasangan.",
+            "Lotus Lagoon adalah tempat yang wajib dikunjungi di Bali. Dengan keindahan alam yang menakjubkan dan suasana yang damai, tempat ini mempersembahkan pengalaman yang tak terlupakan bagi para pengunjungnya. Sangat direkomendasikan untuk menikmati matahari terbenam yang spektakuler di sini!"
+        ],
+        "feature": [
+            "Keindahan Alam",
+            "Spot Foto Instagramable",
+            "Ketenangan",
+            "Pemandangan Air Terjun"
+        ]
+    },
+    {
+        "image": "kasna",
+        "open": true,
+        "name": "Padang Bunga Kasna",
+        "location": "Karangasem",
+        "open_time": "06.00-17.00 WITA",
+        "description": "Padang Bunga Kasna jadi salah satu destinasi hits di Karangasem. Sesuai namanya, Padang Bunga ini dipenuhi bunga berwarna putih. Setiap sudutnya Instagramable banget, seperti bukan di Bali. Namun, pastikan kamu datang sebelum hari raya Kuningan dan Galungan, karena bunganya akan dipetik untuk dijadikan sesaji.",
+        "rate": 4.5,
+        "category": "nature",
+        "review": [
+            "Padang Bunga Kasna adalah surga bunga di Karangasem! Penuh dengan bunga berwarna putih yang menakjubkan, tempat ini adalah surga bagi para penggemar Instagram. Setiap sudutnya memesona dan cocok untuk berfoto. Namun, pastikan untuk datang sebelum hari raya Kuningan dan Galungan karena bunganya akan dipetik untuk dijadikan sesaji. Pengalaman yang tak terlupakan di Bali!"
+        ],
+        "feature": [
+            "Spot Foto Instagramable",
+            "Keindahan Alam",
+            "Romantis",
+            "Area Bersantai"
+        ]
+    },
+    {
+        "image": "pantai_amed",
+        "open": true,
+        "name": "Pantai Amed",
+        "location": "Karangasem",
+        "open_time": "24 jam",
+        "description": "Pemandangan bawah laut Pantai Amed memang gak ada obat. Airnya jernih dan ombaknya juga tenang. Cocok nih buat pecinta diving dan snorkeling. Pemandangan sunrise di sini juga kece banget!",
+        "rate": 4.5,
+        "category": "beach",
+        "review": [
+            "Pantai Amed adalah surga menyelam yang tersembunyi di Bali Timur! Airnya jernih, pasirnya putih, dan terumbu karangnya spektakuler. Cocok untuk para penyelam pemula maupun berpengalaman. Jangan lewatkan matahari terbit yang menakjubkan!",
+            "Saya sangat terkesan dengan keindahan Pantai Amed. Selain menyelam, pantai ini juga ideal untuk snorkeling dan bersantai. Di sepanjang pantai terdapat warung-warung kecil yang menyajikan hidangan laut segar. Sangat direkomendasikan untuk para penggemar alam bawah laut!",
+            "Pantai Amed adalah tempat yang sempurna untuk melarikan diri dari keramaian kota. Suasana yang tenang dan pemandangan alam yang menakjubkan membuatnya menjadi tempat yang ideal untuk bersantai. Juga direkomendasikan untuk menikmati kuliner laut di warung lokal di sekitar pantai."
+        ],
+        "feature": [
+            "Pasir Putih",
+            "Snorkeling",
+            "Pemandangan Bawah Laut",
+            "Desa Pesisir"
+        ]
+    },
+    {
+        "image": "gili_putih",
+        "open": true,
+        "name": "Gili Putih",
+        "location": "Buleleng",
+        "open_time": "24 jam",
+        "description": "Buat kamu yang suka pantai, destinasi yang satu ini tentu gak kalah memesonanya dengan pantai lain. Gili Putih ini salah satu destinasi wisata yang tergolong unik, karena merupakan suatu pulau kecil dengan keindahan pantai, hamparan pasir putih, dan gak ketinggalan spot foto yang menarik.",
+        "rate": 4.0,
+        "category": "beach",
+        "review": [
+            "Gili Putih adalah permata tersembunyi bagi para pecinta pantai. Pulau kecil ini menawarkan keindahan pantai yang memukau, dengan pasir putih yang lembut dan spot-spot foto yang menarik. Suasana yang tenang dan alam yang masih alami membuatnya menjadi destinasi yang sangat istimewa."
+        ],
+        "feature": [
+            "Pasir Putih",
+            "Snorkeling",
+            "Pemandangan Laut",
+            "Keindahan Alam"
+        ]
+    },
+    {
+        "image": "menjangan",
+        "open": true,
+        "name": "Pulau Menjangan",
+        "location": "Buleleng",
+        "open_time": "24 jam",
+        "description": "Buat kamu yang suka snorkeling dan diving, Pulau Menjangan menyuguhkan keindahan pemandangan bawah lautnya yang indah. Lautnya yang jernih, pasir putihnya yang lembut, serta terumbu karang nya yang indah. Lokasi Pulau Manjangan berada di Sumber Kelampok, Gerokgak Kabupaten Buleleng, Bali. ",
+        "rate": 4.0,
+        "category": "nature",
+        "review": [
+            "Pulau Menjangan adalah surga bagi para penyelam dan pecinta alam bawah laut. Terkenal dengan terumbu karangnya yang spektakuler dan keanekaragaman hayati yang luar biasa, pulau ini menawarkan pengalaman menyelam yang tak terlupakan.",
+            "Saya sangat terkesan dengan keindahan alam Pulau Menjangan. Tidak hanya bawah lautnya yang menakjubkan, tetapi juga hutan mangrove dan hutan tropis yang melimpah. Tempat ini cocok untuk berpetualang atau sekadar bersantai di pantai yang sepi.",
+            "Pulau Menjangan adalah tempat yang wajib dikunjungi bagi penggemar alam dan petualangan. Dengan pemandangan alam yang memukau dan kegiatan menyelam yang menarik, pulau ini menawarkan pengalaman liburan yang tak terlupakan. Juga disarankan untuk menjaga kebersihan dan kelestarian lingkungan saat berkunjung."
+        ],
+        "feature": [
+            "Alam Liar",
+            "Snorkeling",
+            "Pemandangan Gunung",
+            "Trekking"
+        ]
+    },
+    {
+        "image": "air_panas",
+        "open": true,
+        "name": "Pemandian Air Panas Pemuteran",
+        "location": "Buleleng",
+        "open_time": "08.00-17.00 WITA",
+        "description": "Destinasi yang terakhir ini juga wajib kamu kunjungi saat berada di Buleleng, di sini kamu bisa berendam dengan air hangat sambil menikmati pemandangan yang indah.",
+        "rate": 4.0,
+        "category": "public",
+        "review": [
+            "Pemandian Air Panas Pemuteran adalah surga tersembunyi di Bali! Airnya hangat dan menyegarkan, sempurna untuk bersantai setelah seharian beraktivitas. Suasana yang tenang dan alami membuat pengalaman mandi di sini sangatlah menyenangkan.",
+            "Saya sangat menikmati waktu yang saya habiskan di Pemandian Air Panas Pemuteran. Pemandian air panasnya memberikan relaksasi yang sempurna bagi tubuh dan pikiran. Juga direkomendasikan untuk menikmati pemandangan alam sekitar yang menakjubkan.",
+            "Pemandian Air Panas Pemuteran adalah tempat yang cocok untuk melepas penat dan bersantai. Air panasnya yang alami dan suasana yang damai membuatnya menjadi tempat yang ideal untuk beristirahat. Pasti akan kembali lagi untuk menikmati kemewahan alam Bali."
+        ],
+        "feature": [
+            "Wisata Religi",
+            "Terapi Air Panas",
+            "Ketenangan",
+            "Spa"
+        ]
+    }
+  ]
+}

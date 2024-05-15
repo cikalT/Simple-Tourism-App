@@ -1,0 +1,42 @@
+name: tourism_app
+version: 1.0.0+0
+description: "A new Flutter project."
+environment:
+  sdk: '>=2.19.6 <4.0.0'
+
+dependencies:
+
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  get: ^4.6.6
+  flutter_rating_bar: ^4.0.1
+  shared_preferences: ^2.2.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.13.1
+  json_serializable: ^6.7.1
+  json_annotation: ^4.8.1
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "resources/app-icon.png"
+  image_path_ios: "resources/app-icon-ios.jpg"
+  image_path_android: "resources/app-icon.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/jsons/
+    - assets/images/
+    - assets/jsons/data.json
+  
